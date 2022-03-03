@@ -1,11 +1,11 @@
 <div align="center"> 
- <img src="https://miro.medium.com/max/980/1*HubVHOjxeedL-tl3ndPHFA.gif" width="250" height="260"> 
+ <img src="https://github.com/ronaldo0820/ronaldo0820/blob/main/github.gif" width="250" height="260"> 
  <img src="https://thumbs.gfycat.com/AmusedSilkyImperatorangel-size_restricted.gif" width="500" height="260"> 
 </div>
 
 <h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Ronaldo!</h1>
 
-I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate coder and have a huge enthusiasm in open source and problem solving. I have always been passionate about technology. I'm a person who always loves to takes on challenges !!
+I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I have a huge enthusiasm in Cloud Computing(AWS). I have always been passionate about technology. I'm a person who always loves to takes on challenges !!
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=ronaldo0820&label=Profile%20views&color=ce9927&style=flat" alt="ronaldo0820" /> </p>
@@ -13,7 +13,7 @@ I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.R
 
 <h1 align="center">Tech-Stack</h1>
 
-I have great enthusiasm in new innovative technologies and I love to learn and leverage such stuff. I have passionate about creating an impact in the community. I have a strong technical understanding of computer programming languages and frameworks. I have worked with Django, React Js, Node Js, Express Js, Docker, JavaScript, SaSS, SQL and so on. So these tech stacks make my friends believe in me as a good lead!
+I have great enthusiasm in new innovative technologies and I love to learn and leverage such stuff. I have passionate about creating an impact in the community. I have a strong technical understanding of computer programming languages and frameworks. I have worked with Networking, Cloud Computing(AWS) and so on. So these tech stacks make my friends believe in me as a good lead!
 
 <p align="center"> 
  <img alt="Java" src="https://img.shields.io/badge/java-%93I8234B.svg?&style=for-the-badge&logo=java&logoColor=brown" />
