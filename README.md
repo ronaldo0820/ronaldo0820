@@ -5,7 +5,7 @@
 
 <h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Ronaldo!</h1>
 
-I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I have a huge enthusiasm in Cloud Computing(AWS). I have always been passionate about technology. I'm a person who always loves to takes on challenges !!
+I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Samayapuram, Trichy. I have a huge enthusiasm in Cloud Computing(AWS). I have always been passionate about technology. I'm a person who always loves to takes on challenges !!
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=ronaldo0820&label=Profile%20views&color=ce9927&style=flat" alt="ronaldo0820" /> </p>
